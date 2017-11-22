@@ -1,0 +1,3 @@
+css er basic syntex:selector{
+			property:value;
+				}
