@@ -1,3 +1,7 @@
 css er basic syntex:selector{
 			property:value;
 				}
+div is a block level element
+a,span,ing-inline element
+web page web structure create  korar jonno 
+last 15 mimit lecture
